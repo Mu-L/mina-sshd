@@ -127,6 +127,7 @@
                         <exclude>**/OpenSshCipherTest.java</exclude>
                         <exclude>**/OpenSshMlKemTest.java</exclude>
                         <exclude>**/PortForwardingWithOpenSshTest.java</exclude>
+                        <exclude>**/SkPubKeyAuthTest.java</exclude>
                         <exclude>**/StrictKexInteroperabilityTest.java</exclude>
                         <!-- reading files from classpath doesn't work correctly w/ reusable test jar -->
                         <exclude>**/OpenSSHCertificateTest.java</exclude>
@@ -180,6 +181,7 @@
                                         <exclude>**/OpenSshCipherTest.java</exclude>
                                         <exclude>**/OpenSshMlKemTest.java</exclude>
                                         <exclude>**/PortForwardingWithOpenSshTest.java</exclude>
+                                        <exclude>**/SkPubKeyAuthTest.java</exclude>
                                         <exclude>**/StrictKexInteroperabilityTest.java</exclude>
                                         <!-- reading files from classpath doesn't work correctly w/ reusable test jar -->
                                         <exclude>**/OpenSSHCertificateTest.java</exclude>

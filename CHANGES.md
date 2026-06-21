@@ -32,6 +32,7 @@
 
 ## Bug Fixes
 
+* [GH-902](https://github.com/apache/mina-sshd/pull/902) Fix client-side handling of sk-* public key signatures (also in the agent interfaces)
 
 ## New Features
 
